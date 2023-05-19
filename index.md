@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images\jiangyichen.jpg" class="floatpic" width="" height="480">
+<img src="images\yichen.jpg" class="floatpic" width="" height="480">
 
 Here is **Yichen Jiang (蒋奕宸)**.
 

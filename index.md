@@ -4,7 +4,7 @@ layout: page
 
 # 关于我
 
-<img src="images\yichen.jpg" class="floatpic" width="" height="480">
+<img src="images\yichen.jpg" class="floatpic" width="360" height="480">
 
 欢迎来到**蒋奕宸**的个人博客。
 
@@ -39,7 +39,7 @@ layout: page
 - **清华大学院二等奖学金，清华大学深研院职业规划大赛三等奖；**
 - **山东省机器人机器人竞赛一等奖、全国数学竞赛二等奖等；**
 - **中国石油大学（华东）综合优秀奖学金、突出成绩奖学金、文体特长奖学金；**
-- **中国石油大学优秀共青团干部；**
+- **中国石油大学优秀共青团干部;**
 
 ## 技能特长
 

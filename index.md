@@ -2,24 +2,40 @@
 layout: page
 ---
 
-# About Me
+# 关于我
 
 <img src="images\yichen.jpg" class="floatpic" width="" height="480">
 
-Here is **Yichen Jiang (蒋奕宸)**.
+欢迎来到**蒋奕宸**的个人博客。
 
-I am a junior majoring in **Automation** at Fuzhou University (China) and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+## 教育经历
 
-## Research Interests
+<table>
+  <tr>
+    <td>2021.09-至今 </td>
+    <td>清华大学</td>
+    <td>深圳国际研究生院</td>
+    <td>资源与环境</td>
+    <td>硕士在读</td>
+  </tr>
+  <tr>
+    <td>2017.09-2021.07  </td>
+    <td>中国石油大学（华东）</td>
+    <td>海洋空间信息学院</td>
+    <td>电子信息工程</td>
+    <td>本科</td>
+  </tr>
+</table>
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+这是[我的简历](./file/%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF%E4%BA%A7%E4%B8%9A%E9%A2%86%E5%9F%9F%E6%B1%82%E8%81%8C.pdf)
 
-## News and Updates
 
-- **<font color='red'>[News]</font> I am looking for a Summer Research Intern Position (from June to Sep)!**
-- **May 2023：**Congratulations! We have won the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published! Welcome to contribute.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the 2022 China National Scholarship.
-- **Jun 2022：**Online Research Intern at Cambridge Centre for the Integration of Science, Technology and Culture, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+## 研究兴趣
+<span style="line-height: 1.5;">深度学习的发展推动了AI行业的发展，大模型的出现更是再次为AI领域赋予了新的活力。在本科的时候我对**深度学习**技术就很感兴趣，并尝试过一些关于**目标检测、图像处理**的相关研究。尽管专业方向似乎不是很对口，但我还是希望能在AI领域做出一些颇具影响力的工作。并期待与有想法的小伙伴一起合作。</span>
+
+
+
+
+
+
+
